@@ -1,0 +1,1 @@
+The problem at hand is the Knapsack Problem Solver, which aims to efficiently solve the knapsack problem using different optimization algorithms. The knapsack problem involves selecting a combination of items, each with its own value and weight, to maximize the total value while keeping the total weight within a certain limit.
